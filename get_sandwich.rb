@@ -11,7 +11,7 @@ def get_sandwhich(str)
     puts count
     if count < 2
         return false
-    elsif slice
+    elsif slice9
     end
 end
 
